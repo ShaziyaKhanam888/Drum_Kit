@@ -34,6 +34,11 @@ This Drum Kit is an interactive web-based application that allows users to play 
 2. Open the `drum.html` file in your browser to interact with the drum kit.
 3. Ensure the audio files are in the correct folder (`/audio`) to avoid issues with missing sounds.
 
+**##Screenshot**
+
+![Screenshot 2024-09-05 202841](https://github.com/user-attachments/assets/242b857b-fb76-45e3-a4f2-15d798ed8e52)
+
+
 ## Author
 
 - **Shaziya Khanam** - Developer of the Drum Kit project.
